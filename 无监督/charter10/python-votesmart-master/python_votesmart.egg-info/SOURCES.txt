@@ -1,0 +1,12 @@
+CHANGELOG.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+test_votesmart.py
+votesmart.py
+python_votesmart.egg-info/PKG-INFO
+python_votesmart.egg-info/SOURCES.txt
+python_votesmart.egg-info/dependency_links.txt
+python_votesmart.egg-info/requires.txt
+python_votesmart.egg-info/top_level.txt
